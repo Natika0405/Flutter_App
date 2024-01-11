@@ -1,4 +1,3 @@
-import 'package:flutter_fic7_app/data/models/auth_response_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../models/auth_response_model.dart';
